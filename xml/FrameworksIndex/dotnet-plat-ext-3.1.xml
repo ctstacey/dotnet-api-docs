@@ -3,8 +3,8 @@
   <Assemblies>
     <Assembly Name="Microsoft.Bcl.AsyncInterfaces" Version="1.0.0.0" />
     <Assembly Name="Microsoft.Bcl.HashCode" Version="1.0.0.0" />
-    <Assembly Name="Microsoft.Extensions.Caching.Abstractions" Version="3.1.0.0" />
-    <Assembly Name="Microsoft.Extensions.Caching.Memory" Version="3.1.0.0" />
+    <Assembly Name="Microsoft.Extensions.Caching.Abstractions" Version="3.1.31.0" />
+    <Assembly Name="Microsoft.Extensions.Caching.Memory" Version="3.1.31.0" />
     <Assembly Name="Microsoft.Extensions.Caching.SqlServer" Version="3.1.0.0" />
     <Assembly Name="Microsoft.Extensions.Caching.StackExchangeRedis" Version="3.1.0.0" />
     <Assembly Name="Microsoft.Extensions.Configuration.Abstractions" Version="3.1.0.0" />
